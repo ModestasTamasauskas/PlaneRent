@@ -1,0 +1,9 @@
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\PlaneRental.Data.Tests.dll
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\PlaneRental.Data.Tests.pdb
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\Moq.dll
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\Moq.pdb
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\Moq.xml
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\obj\Debug\PlaneRental.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\obj\Debug\PlaneRental.Data.Tests.dll
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\obj\Debug\PlaneRental.Data.Tests.pdb

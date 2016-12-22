@@ -1,0 +1,25 @@
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Data.Tests\bin\Debug\Moq.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Data.Tests\bin\Debug\Moq.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Source\Complete\CarRental\CarRental.Data.Tests\bin\Debug\Moq.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Data.Tests\bin\Debug\Moq.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Data.Tests\bin\Debug\Moq.pdb
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Data.Tests\bin\Debug\Moq.xml
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.csprojResolveAssemblyReference.cache
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.dll
+F:\Training\Pluralsight\Building an End-to-End SO-Application\Development\Modules\m1-car-rental-system-demo\demos\Source\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.pdb
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.dll
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\CarRental.Data.Tests.pdb
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\Moq.dll
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\Moq.pdb
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\bin\Debug\Moq.xml
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.dll
+C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Data.Tests\obj\Debug\CarRental.Data.Tests.pdb

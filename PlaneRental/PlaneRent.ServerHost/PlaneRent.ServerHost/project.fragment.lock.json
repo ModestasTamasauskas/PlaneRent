@@ -1,0 +1,233 @@
+{
+  "version": 2,
+  "exports": {
+    "Core.Common.Contracts/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/Core.Common.Contracts.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/Core.Common.Contracts.dll": {}
+      }
+    },
+    "Core.Common/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/Core.Common.dll": {}
+      },
+      "runtime": {
+        "../../CarRental/packages/EntityFramework.6.1.3/lib/net45/EntityFramework.SqlServer.dll": {},
+        "../../CarRental/packages/EntityFramework.6.1.3/lib/net45/EntityFramework.dll": {},
+        "../../CarRental/packages/FluentValidation.4.0.0.0/lib/Net40/FluentValidation.dll": {},
+        "bin/Debug/Core.Common.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Core.Common.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PlaneRental.Business.Bootstrapper/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/PlaneRental.Business.Bootstrapper.dll": {}
+      },
+      "runtime": {
+        "../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.SqlServer.dll": {},
+        "../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.dll": {},
+        "../packages/Newtonsoft.Json.9.0.1/lib/net45/Newtonsoft.Json.dll": {},
+        "bin/Debug/PlaneRental.Business.Bootstrapper.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/PlaneRental.Business.Bootstrapper.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PlaneRental.Business.Common/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/PlaneRental.Business.Common.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/PlaneRental.Business.Common.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/PlaneRental.Business.Common.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PlaneRental.Business.Contracts/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/PlaneRental.Business.Contracts.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/PlaneRental.Business.Contracts.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/PlaneRental.Business.Contracts.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PlaneRental.Business.Entities/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/PlaneRental.Business.Entities.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/PlaneRental.Business.Entities.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/PlaneRental.Business.Entities.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PlaneRental.Data.Contracts/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/PlaneRental.Data.Contracts.dll": {}
+      },
+      "runtime": {
+        "../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.SqlServer.dll": {},
+        "../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.dll": {},
+        "bin/Debug/PlaneRental.Data.Contracts.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/PlaneRental.Data.Contracts.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PlaneRental.Data/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/PlaneRental.Data.dll": {}
+      },
+      "runtime": {
+        "../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.SqlServer.dll": {},
+        "../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.dll": {},
+        "bin/Debug/PlaneRental.Data.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/PlaneRental.Data.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "Core.Common.ServiceModel/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/Core.Common.ServiceModel.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/Core.Common.ServiceModel.dll": {}
+      }
+    },
+    "Core.Common.UI/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/Core.Common.UI.dll": {}
+      },
+      "runtime": {
+        "../../CarRental/packages/FluentValidation.4.0.0.0/lib/Net40/FluentValidation.dll": {},
+        "bin/Debug/Core.Common.UI.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Core.Common.UI.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PlaneRental.Business/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/PlaneRental.Business.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/PlaneRental.Business.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/PlaneRental.Business.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PlaneRental.Business.Managers/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/PlaneRental.Business.Managers.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/PlaneRental.Business.Managers.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/PlaneRental.Business.Managers.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PlaneRental.Common/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/CarRental.Common.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/CarRental.Common.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/CarRental.Common.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "PlaneRental.Common.Contracts/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/CarRental.Common.Contracts.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/CarRental.Common.Contracts.dll": {}
+      }
+    }
+  }
+}
