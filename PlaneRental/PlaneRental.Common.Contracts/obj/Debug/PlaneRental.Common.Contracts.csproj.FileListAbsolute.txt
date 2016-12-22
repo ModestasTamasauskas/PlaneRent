@@ -3,3 +3,7 @@ C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Common.C
 C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Common.Contracts\obj\Debug\CarRental.Common.Contracts.dll
 C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Common.Contracts\obj\Debug\CarRental.Common.Contracts.pdb
 C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Common.Contracts\obj\Debug\PlaneRental.Common.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common.Contracts\bin\Debug\CarRental.Common.Contracts.dll
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common.Contracts\bin\Debug\CarRental.Common.Contracts.pdb
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common.Contracts\obj\Debug\CarRental.Common.Contracts.dll
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common.Contracts\obj\Debug\CarRental.Common.Contracts.pdb

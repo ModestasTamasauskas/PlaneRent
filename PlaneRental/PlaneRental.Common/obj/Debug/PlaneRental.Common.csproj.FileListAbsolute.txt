@@ -24,3 +24,16 @@ C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Common\b
 C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Common\obj\Debug\PlaneRental.Common.csprojResolveAssemblyReference.cache
 C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Common\obj\Debug\CarRental.Common.dll
 C:\Users\MODE\Desktop\Study\4Sem1half\Web\PlaneRent\CarRental\CarRental.Common\obj\Debug\CarRental.Common.pdb
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\bin\Debug\CarRental.Common.dll
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\bin\Debug\CarRental.Common.pdb
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\bin\Debug\Core.Common.Contracts.dll
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\bin\Debug\Core.Common.dll
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\bin\Debug\Core.Common.ServiceModel.dll
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\bin\Debug\EntityFramework.dll
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\bin\Debug\FluentValidation.dll
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\bin\Debug\Core.Common.Contracts.pdb
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\bin\Debug\Core.Common.ServiceModel.pdb
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\bin\Debug\Core.Common.pdb
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\obj\Debug\PlaneRental.Common.csprojResolveAssemblyReference.cache
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\obj\Debug\CarRental.Common.dll
+C:\Users\MODE\Source\Repos\PlaneRent\PlaneRental\PlaneRental.Common\obj\Debug\CarRental.Common.pdb

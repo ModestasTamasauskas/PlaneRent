@@ -9,6 +9,13 @@
       },
       "runtime": {
         "bin/Debug/Core.Common.Contracts.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Core.Common.Contracts.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
       }
     },
     "Core.Common/1.0.0": {
@@ -138,95 +145,6 @@
           "codeLanguage": "any",
           "copyToOutput": true
         }
-      }
-    },
-    "Core.Common.ServiceModel/1.0.0": {
-      "type": "project",
-      "framework": ".NETFramework,Version=v4.5",
-      "compile": {
-        "bin/Debug/Core.Common.ServiceModel.dll": {}
-      },
-      "runtime": {
-        "bin/Debug/Core.Common.ServiceModel.dll": {}
-      }
-    },
-    "Core.Common.UI/1.0.0": {
-      "type": "project",
-      "framework": ".NETFramework,Version=v4.5",
-      "compile": {
-        "bin/Debug/Core.Common.UI.dll": {}
-      },
-      "runtime": {
-        "../../CarRental/packages/FluentValidation.4.0.0.0/lib/Net40/FluentValidation.dll": {},
-        "bin/Debug/Core.Common.UI.dll": {}
-      },
-      "contentFiles": {
-        "bin/Debug/Core.Common.UI.pdb": {
-          "buildAction": "None",
-          "codeLanguage": "any",
-          "copyToOutput": true
-        }
-      }
-    },
-    "PlaneRental.Business/1.0.0": {
-      "type": "project",
-      "framework": ".NETFramework,Version=v4.5",
-      "compile": {
-        "bin/Debug/PlaneRental.Business.dll": {}
-      },
-      "runtime": {
-        "bin/Debug/PlaneRental.Business.dll": {}
-      },
-      "contentFiles": {
-        "bin/Debug/PlaneRental.Business.pdb": {
-          "buildAction": "None",
-          "codeLanguage": "any",
-          "copyToOutput": true
-        }
-      }
-    },
-    "PlaneRental.Business.Managers/1.0.0": {
-      "type": "project",
-      "framework": ".NETFramework,Version=v4.5",
-      "compile": {
-        "bin/Debug/PlaneRental.Business.Managers.dll": {}
-      },
-      "runtime": {
-        "bin/Debug/PlaneRental.Business.Managers.dll": {}
-      },
-      "contentFiles": {
-        "bin/Debug/PlaneRental.Business.Managers.pdb": {
-          "buildAction": "None",
-          "codeLanguage": "any",
-          "copyToOutput": true
-        }
-      }
-    },
-    "PlaneRental.Common/1.0.0": {
-      "type": "project",
-      "framework": ".NETFramework,Version=v4.5",
-      "compile": {
-        "bin/Debug/CarRental.Common.dll": {}
-      },
-      "runtime": {
-        "bin/Debug/CarRental.Common.dll": {}
-      },
-      "contentFiles": {
-        "bin/Debug/CarRental.Common.pdb": {
-          "buildAction": "None",
-          "codeLanguage": "any",
-          "copyToOutput": true
-        }
-      }
-    },
-    "PlaneRental.Common.Contracts/1.0.0": {
-      "type": "project",
-      "framework": ".NETFramework,Version=v4.5",
-      "compile": {
-        "bin/Debug/CarRental.Common.Contracts.dll": {}
-      },
-      "runtime": {
-        "bin/Debug/CarRental.Common.Contracts.dll": {}
       }
     }
   }

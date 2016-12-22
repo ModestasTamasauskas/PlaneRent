@@ -48,7 +48,7 @@ namespace PlaneRent.ServerHost
             services.AddSingleton<IBusinessEngineFactory, BusinessEngineFactory>();
 
             ObjectBase.Container = MefLoader.Init();
-
+            services.AddSwaggerGen();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline
@@ -62,6 +62,12 @@ namespace PlaneRent.ServerHost
             app.UseApplicationInsightsExceptionTelemetry();
 
             app.UseMvc();
+
+            // Enable middleware to serve generated Swagger as a JSON endpoint
+            app.UseSwagger("swagger");
+
+            // Enable middleware to serve swagger-ui assets (HTML, JS, CSS etc.)
+            app.UseSwaggerUi();
         }
     }
 }
