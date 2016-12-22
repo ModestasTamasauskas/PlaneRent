@@ -1,0 +1,40 @@
+﻿<div ng-switch="viewMode">
+    <div ng-switch-when="planelist">
+        <h3>Available Planes</h3>
+        <div ng-show="planes.length > 0">
+            <table class="table table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Year</th>
+                        <th>Make / Model</th>
+                        <th>Color</th>
+                        <th>Price per day</th>
+                    </tr>
+                </thead>
+                <tbody ng-repeat="plane in planes">
+                    <tr style="vertical-align: central">
+                        <td><a href="#" ng-click="selectPlane(plane)">select</a></td>
+                        <td>{{ plane.Year }}</td>
+                        <td>{{ plane.Description }}</td>
+                        <td>{{ plane.Color }}</td>
+                        <td>{{ plane.RentalPrice }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div ng-show="planes.length == 0">
+            <h2>There are no available planes for the desired dates.</h2>
+        </div>
+        <div>
+            <a class="btn btn-primary btn-large" href="/customer/reserve">Back to select reservation dates</a>
+        </div>
+    </div>
+    <div ng-switch-when="success">
+        <h3>
+            Thank you for reserving your plane!
+            <br />
+            Your reservation number is {{ reservationNumber }}.
+        </h3>
+    </div>
+</div>

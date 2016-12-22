@@ -1,0 +1,35 @@
+
+Desktop App:
+
+Manage Planes in stock
+Check rental status of Planes
+Rent a reserved Plane to a customer
+Accept a returned Plane from a customer
+See list of customers and their history
+
+Web App:
+
+See available Planes and their per-day rental price (all or per-category)
+Reserve a Plane
+Cancel a reservation
+See rental history as a customer
+
+----------------------------------------------------------------
+
+Business Engines:
+
+PlaneRentalEngine
+	Is Plane currently rented
+	And by whom
+
+Services:
+	InventoryService
+		Plane CRUD - DAL
+		SeeAvailablePlanes - DAL
+	RentalService
+		RentPlaneToCustomer
+		AcceptPlaneReturn
+		GetCustomerRentalHistory
+		ReservePlane
+		CancelReservation
+		GetCurrentRentals
