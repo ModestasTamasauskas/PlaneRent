@@ -10,7 +10,7 @@
     <RootNamespace>PlaneRent.ServerHost</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersionTargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
@@ -18,12 +18,6 @@
   <ItemGroup>
     <ProjectReference Include="..\..\..\Core\Core.Common.Contracts\Core.Common.Contracts.csproj" />
     <ProjectReference Include="..\..\..\Core\Core.Common\Core.Common.csproj" />
-    <ProjectReference Include="..\..\CarRental.Business.Bootstrapper\PlaneRental.Business.Bootstrapper.csproj" />
-    <ProjectReference Include="..\..\CarRental.Business.Common\PlaneRental.Business.Common.csproj" />
-    <ProjectReference Include="..\..\CarRental.Business.Contracts\PlaneRental.Business.Contracts.csproj" />
-    <ProjectReference Include="..\..\CarRental.Business.Entities\PlaneRental.Business.Entities.csproj" />
-    <ProjectReference Include="..\..\CarRental.Data.Contracts\PlaneRental.Data.Contracts.csproj" />
-    <ProjectReference Include="..\..\CarRental.Data\PlaneRental.Data.csproj" />
     <ProjectReference Include="..\..\PlaneRental.Business.Bootstrapper\PlaneRental.Business.Bootstrapper.csproj" />
     <ProjectReference Include="..\..\PlaneRental.Business.Common\PlaneRental.Business.Common.csproj" />
     <ProjectReference Include="..\..\PlaneRental.Business.Contracts\PlaneRental.Business.Contracts.csproj" />
@@ -33,3 +27,4 @@
   </ItemGroup>
   <Import Project="$(VSToolsPath)\DotNet.Web\Microsoft.DotNet.Web.targets" Condition="'$(VSToolsPath)' != ''" />
 </Project>
+<New>
